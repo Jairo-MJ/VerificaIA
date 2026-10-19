@@ -51,3 +51,19 @@ Integrarse inicialmente con todas las redes sociales.
 5. MVP
 
 Una aplicación web funcional en la que un usuario pueda ingresar una afirmación o información que desea verificar y completar una guía interactiva con preguntas sobre la fuente, fecha y comparación con otras fuentes. Al finalizar, el sistema mostrará una evaluación orientativa y recomendaciones sobre los siguientes pasos antes de compartir la información.
+
+6. Problema y objetivo
+
+Problema
+
+La difusión de información falsa o engañosa, especialmente aquella generada mediante inteligencia artificial, dificulta que las personas identifiquen contenido confiable. VerificaIA busca orientar a los usuarios en el proceso de verificación de información mediante una guía interactiva.
+
+Objetivo medible
+
+Documentar y validar una definición del problema y un objetivo general del proyecto, estableciendo como resultado la elaboración de un documento que incluya ambos elementos y describa claramente el propósito de VerificaIA.
+
+Indicador de cumplimiento: contar con un documento que incluya el problema definido, el objetivo general y su relación con la solución propuesta.
+
+Siguiente paso
+
+Revisar la documentación con el equipo, realizar los ajustes necesarios y utilizarla como base para definir los requisitos y las funcionalidades del MVP de VerificaIA.
